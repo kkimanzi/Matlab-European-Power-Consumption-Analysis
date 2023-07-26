@@ -8,3 +8,9 @@ Multiple time-series spanning the same time period could be obtained by consider
 •	How did power consumption in Britain, France, and Italy vary over time?
 •	What is the yearly power consumption over the study time in Britain, France, and Italy?
 •	What is the range of daily power consumption in Britain, France, and Italy?
+
+**Code**
+The MatLAB code is found in the "/Code" directory
+
+**Data**
+The data redacted from the Kaggle source cited previously is found in the "/data" directory
